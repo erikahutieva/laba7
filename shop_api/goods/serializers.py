@@ -1,6 +1,6 @@
 from rest_framework import serializers
 from .models import Good
-
+#сложный формат в более простой
 class GoodSerializer(serializers.ModelSerializer):
     class Meta:
         model = Good

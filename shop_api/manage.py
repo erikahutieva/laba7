@@ -20,3 +20,17 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
+#http://127.0.0.1:8000/new_good/?token=
+
+'''
+{
+    "id": 1,
+    "name": "Dress",
+    "amount": 10,
+    "price": 100
+}
+
+'''
