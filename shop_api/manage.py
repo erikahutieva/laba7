@@ -23,7 +23,7 @@ if __name__ == '__main__':
 
 
 
-#http://127.0.0.1:8000/new_good/?token=
+#http://127.0.0.1:8000/new_good/?token=7b59f55b-1c79-441e-b1c2-f696f2066e1f
 
 '''
 {
